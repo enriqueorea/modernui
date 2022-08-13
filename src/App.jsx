@@ -6,7 +6,7 @@ import {
   Stats,
   Business,
   Billing,
-  CardDeald,
+  CardDeal,
   Testimonials,
   Clients,
   CTA,
@@ -33,7 +33,7 @@ const App = () => {
           <Stats />
           <Business />
           <Billing />
-          <CardDeald />
+          <CardDeal />
           <Testimonials />
           <Clients />
           <CTA />
