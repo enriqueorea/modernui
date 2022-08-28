@@ -128,6 +128,7 @@ export const footerLinks = [
         link: "https://www.hoobank.com/terms-and-services/",
       },
     ],
+    key: "useful-links",
   },
   {
     title: "Community",
@@ -153,6 +154,7 @@ export const footerLinks = [
         link: "https://www.hoobank.com/newsletters/",
       },
     ],
+    key: "community",
   },
   {
     title: "Partner",
@@ -166,6 +168,7 @@ export const footerLinks = [
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
+    key: "partner",
   },
 ];
 
